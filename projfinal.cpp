@@ -1,5 +1,5 @@
 #include<bits/stdc++.h> //Header file that include every standard library.
-#define pb push_back    //push_back can be replaced by pb in our program now.
+#define pb push_back    //push_back can be replacedd by pb in our program now.
 using namespace std;
 
 
